@@ -8,4 +8,6 @@ Depending on the correlation of the assets in the portfolio and their compositio
 Using Python, it's possible to model different investment portfolios and simulate various possible combinations, making the portfolio optimization process much more practical and accessible. Below are the main advantages of this approach.
 
 Results Example:
+
+
 <img src="efficient_frontier.png">
